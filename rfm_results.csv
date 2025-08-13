@@ -1,0 +1,6 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+1,6,2,160.0,4,2,3,423,Others
+2,11,1,100.0,3,1,2,312,Others
+3,31,1,50.0,2,1,1,211,At Risk
+4,52,1,400.0,1,1,5,115,At Risk
+5,1,1,300.0,5,1,4,514,Others
